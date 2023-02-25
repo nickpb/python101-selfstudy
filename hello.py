@@ -1,3 +1,9 @@
 print('Hellow Pocky')
-print('Hellow Uncle!')
+
 print('Morning Start is real')
+
+print('Hellow GITHUB')
+
+friend = ['Dan, Elton, Nicky, Lek']
+
+print(friend(0))
