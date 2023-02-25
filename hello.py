@@ -1,9 +1,15 @@
-print('Hellow Pocky')
+print('Edit and remove lines')
 
-print('Morning Start is real')
-
-print('Hellow GITHUB')
-
-friend = ['Dan, Elton, Nicky, Lek']
+print('Hellow Pocky old line remain')
 
 print(friend(0))
+
+print('new line added')
+print('new line added2')
+
+
+
+print('new line added3')
+
+
+print('new line added4')
